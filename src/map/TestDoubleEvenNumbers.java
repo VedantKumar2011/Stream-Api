@@ -12,6 +12,8 @@ public class TestDoubleEvenNumbers {
 		DoubleEvenNumber.display(numbers);
 		System.out.println("==== numbers before applying method =====");
 		DoubleEvenNumber.display(DoubleEvenNumber.doubleEvenNumber(numbers));
+		
+		System.out.println("=======================================");
 	}
 
 }
